@@ -1,9 +1,0 @@
-name: LegendSMP
-main: ru.legend.LegendSMP
-version: 1.0
-api-version: '1.21.11'
-description: Легендарное оружие с прокачкой от убийств, броня и крафты с головами игроков
-commands:
-  legend:
-    description: Меню легендарных рецептов
-    usage: /legend [give <id>]
